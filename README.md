@@ -1,22 +1,22 @@
 # Wireshark Network Analysis 🔎
 
-## Objective
-Analyze and understand network traffic using Wireshark.
+## 🎯 Objective
+To capture, analyze and understand network traffic using Wireshark.
 
-## Tools Used
+## 🛠️ Tools Used
 - Wireshark
 - Kali Linux
 - TCP/IP
 
-## Topics Covered
-- Source and destination IP addresses
+## 🔍 Topics Covered
+- Source and Destination IP addresses
 - TCP and UDP traffic
 - DNS packets
-- Packet filtering
 - Network protocols
+- Packet filtering
 - I/O Graph
 
-## Wireshark Filters
+## 🔎 Wireshark Filters
 
 ```text
 ip.addr == 192.168.1.1
